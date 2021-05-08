@@ -1,13 +1,29 @@
 # 👋 Hi, I’m Lee Jayson 
 
-I'm a Computer Science major studying at Iowa State University. 
+<p> Welcome, to my page! </br>
+I'm a Computer Science major studying at Iowa State University </p>
 
  * 👀 I’m interested in Web Development and Data Science
- * 🌱 I’m currently learning Java in university 
- * 🥁 I also play the drums 
+ * 🌱 I’m currently learning Java in university, self-learning JavaScript, and Python 
+
+## Hobbies
+ * 🥁 Playing the drums 
+ * 🏋️ Working out
+ * 🎮 Watching League of Legends videos and my favourite streamer ⭐Tyler1⭐
+
+![Alt text](https://tenor.com/view/tyler1-rage-gif-21471657.gif) 
+
+## Projects
+Currently have none, but in the progress of creating some :)
 
 
-
+## Languages
+<p>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-f89820.svg?logo=java&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+  
+  
+</p>
 
 ## Stats
 
