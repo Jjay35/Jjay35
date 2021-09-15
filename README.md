@@ -11,7 +11,6 @@ I'm a Computer Science major studying at Iowa State University </p>
  * 🏋️ Working out
  * 🎮 Watching League of Legends videos and my favourite streamer ⭐Tyler1⭐
 
-![Alt text](https://tenor.com/view/tyler1-rage-gif-21471657.gif) 
 
 ## Projects
 Currently have none, but in the progress of creating some :)
