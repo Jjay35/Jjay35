@@ -9,7 +9,6 @@ I'm a Computer Science major studying at Iowa State University </p>
 ## Hobbies
  * 🥁 Playing the drums 
  * 🏋️ Working out
- * 🎮 Watching League of Legends videos and my favourite streamer ⭐Tyler1⭐
 
 
 ## Projects
