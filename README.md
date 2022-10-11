@@ -12,7 +12,7 @@ I'm a Computer Science major studying at Iowa State University </p>
 
 
 ## Projects
-Currently have none, but in the progress of creating some :)
+Made a simple rock paper scissors game where the player goes up against the computer.
 
 
 ## Languages
