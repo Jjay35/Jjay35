@@ -3,7 +3,7 @@
 <p> Welcome, to my page! </br>
 I'm a Computer Science major studying at Iowa State University </p>
 
- * 👀 I’m interested in Web Development and Data Science
+ * 👀 I’m interested in Web Development
  * 🌱 I’m currently learning Java in university, self-learning JavaScript, and Python 
 
 ## Hobbies
