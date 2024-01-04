@@ -1,24 +1,26 @@
 # 👋 Hi, I’m Lee Jayson 
 
 <p> Welcome, to my page! </br>
-I'm a Computer Science major studying at Iowa State University </p>
+I'm a Computer Science major gradute from Iowa State University </p>
 
- * 👀 I’m interested in Web Development
- * 🌱 I’m currently learning Java in university, self-learning JavaScript, and Python 
 
 ## Hobbies
  * 🥁 Playing the drums 
  * 🏋️ Working out
 
 
-## Projects
-Made a simple rock paper scissors game where the player goes up against the computer.
 
 
 ## Languages
 <p>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-f89820.svg?logo=java&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+  JavaScript
+  React
+  HTML
+  CSS
+  SQL
+  Flask
   
   
 </p>
