@@ -13,17 +13,7 @@ I'm a Computer Science major gradute from Iowa State University </p>
 
 ## Languages
 <p>
-  * Java
-  * Python
-  * JavaScript
-  * React
-  * React Native
-  * HTML
-  * CSS
-  * SQL
-  * Flask
-  
-  
+  Java, Python, JavaScript, React, React Native, C++, C, HTML, CSS, SQL, Flask
 </p>
 
 ## Stats
