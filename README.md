@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lee Jayson 
+# 👋 Hi, I’m Jayson Lee
 
 <p> Welcome, to my page! </br>
 I'm a Computer Science major gradute from Iowa State University </p>
